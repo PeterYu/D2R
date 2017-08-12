@@ -1,0 +1,23 @@
+{
+  "name": "d2r",
+  "version": "1.0.0",
+  "description": "Disconnect to reconnect",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterYu/D2R.git"
+  },
+  "author": "Peter Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterYu/D2R/issues"
+  },
+  "homepage": "https://github.com/PeterYu/D2R#readme"
+}
